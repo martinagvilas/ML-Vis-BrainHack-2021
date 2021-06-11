@@ -16,7 +16,7 @@ This tutorial was developed to be presented at the 2021 edition of the [OHBM Bra
 | [05. Visualization](.notebooks/05-visualization.ipynb) | desc     	| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martinagvilas/ML-Vis-BrainHack-2021/blob/main/notebooks/05-visualization.ipynb) |
 
 
-- Each section will have a "Check your knowledge part"
+- Each part provides small comprehension exercises, and a final integration exercise.
 
 ## Learning goals
 - [ ] Learn how to load and prepare your data for machine learning analysis with scikit-learn.
