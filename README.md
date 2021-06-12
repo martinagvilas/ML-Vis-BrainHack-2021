@@ -1,7 +1,7 @@
 # Introduction to Machine Learning and Data Visualization with Python
 
 _Welcome!_ :wave: 
-This short interactive session will show you how to use the [scikit-learn](https://github.com/scikit-learn/scikit-learn) Python package to perform basic machine learning analysis. It will also cover how to visualize your results with the matplotlib and seaborn Python packages. 
+This short interactive tutorial will show you how to use the [scikit-learn](https://github.com/scikit-learn/scikit-learn) Python package to perform basic machine learning analysis. It will also cover how to visualize your results with the matplotlib and seaborn Python packages. 
 
 This tutorial was developed to be presented at the 2021 edition of the [OHBM BrainHack](https://ohbm.github.io/hackathon2021/) :brain:
 
@@ -28,9 +28,9 @@ This tutorial was developed to be presented at the 2021 edition of the [OHBM Bra
 
 ## Pre-requisites
 - You should be familiar with:
-    - _Basic Machine Learning concepts_:
-        - The difference between supervised/unsupervised Learning
-        - (...)
+    - _Basic Machine Learning concepts_, for example:
+        - The difference between supervised/unsupervised learning
+        - The difference between classification, regression and clustering models
     - Basic experience with Python
 - We also assume that you have seen the video 
 [A tutorial on machine learning](https://www.youtube.com/watch?v=pOAK6ynM11E&list=PLVso6Qs8PLCiciMyxyqxCzp38G5tEhdy6&index=6) 
@@ -41,3 +41,8 @@ by [Laura Suarez](https://twitter.com/LauraESuarez24).
 - Run it locally {To-DO, explain how}
 
 ## Get in touch
+If you run into any problems when executing this tutorial,
+please open an [issue]() describing the problem.
+
+We also welcome any enhancements, ideas or discussions
+on the topics covered by the notebooks.
