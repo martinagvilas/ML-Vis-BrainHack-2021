@@ -26,16 +26,17 @@ This tutorial was developed to be presented at the 2021 edition of the [OHBM Bra
 - [ ] Learn how to inspect and evaluate a machine learning model.
 - [ ] Learn how to plot your results with matplotlib and seaborn.
 
-## Background knowledge
-- _Basics of Machine Learning_: You should be familiar with the concepts of:
-    - The difference between supervised/unsupervised Learning
-    - (...)
-- Basic experience with Python
+## Pre-requisites
+- You should be familiar with:
+    - _Basic Machine Learning concepts_:
+        - The difference between supervised/unsupervised Learning
+        - (...)
+    - Basic experience with Python
 - We also assume that you have seen the video 
 [A tutorial on machine learning](https://www.youtube.com/watch?v=pOAK6ynM11E&list=PLVso6Qs8PLCiciMyxyqxCzp38G5tEhdy6&index=6) 
 by [Laura Suarez](https://twitter.com/LauraESuarez24).
 
-## Accessing this tutorial
+## Executing the notebooks
 - Run it in colab {To-DO, explain how}
 - Run it locally {To-DO, explain how}
 
