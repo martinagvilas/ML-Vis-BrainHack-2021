@@ -25,8 +25,12 @@ This tutorial was developed to be presented at the 2021 edition of the [OHBM Bra
 | [04. Overfitting](.notebooks/04-preventing_overfitting.ipynb) | desc | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martinagvilas/ML-Vis-BrainHack-2021/blob/main/notebooks/04-preventing_overfitting.ipynb) |
 | [05. Visualization](.notebooks/05-visualization.ipynb) | desc | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martinagvilas/ML-Vis-BrainHack-2021/blob/main/notebooks/05-visualization.ipynb) |
 
-
 - Each notebook provides small comprehension exercises, and a final integration exercise.
+
+## Executing the notebooks
+- Run in Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/martinagvilas/ML-Vis-BrainHack-2021/HEAD?urlpath=lab)
+- Run it in colab {To-DO, explain how}
+- Run it locally {To-DO, explain how}
 
 ## Learning goals
 - [ ] Learn how to load and prepare your data for machine learning analysis with scikit-learn.
@@ -43,12 +47,6 @@ This tutorial was developed to be presented at the 2021 edition of the [OHBM Bra
 - We also assume that you have seen the video 
 ["A tutorial on machine learning"](https://www.youtube.com/watch?v=pOAK6ynM11E&list=PLVso6Qs8PLCiciMyxyqxCzp38G5tEhdy6&index=6) 
 by [Laura Suarez](https://twitter.com/LauraESuarez24).
-
-## Executing the notebooks
-- Run in Binder: https://mybinder.org/v2/gh/martinagvilas/ML-Vis-BrainHack-2021/HEAD
-?urlpath=lab
-- Run it in colab {To-DO, explain how}
-- Run it locally {To-DO, explain how}
 
 ## Get in touch
 If you run into any problems when executing this tutorial,
