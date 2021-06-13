@@ -45,6 +45,8 @@ This tutorial was developed to be presented at the 2021 edition of the [OHBM Bra
 by [Laura Suarez](https://twitter.com/LauraESuarez24).
 
 ## Executing the notebooks
+- Run in Binder: https://mybinder.org/v2/gh/martinagvilas/ML-Vis-BrainHack-2021/HEAD
+?urlpath=lab
 - Run it in colab {To-DO, explain how}
 - Run it locally {To-DO, explain how}
 
