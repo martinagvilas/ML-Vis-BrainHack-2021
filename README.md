@@ -1,5 +1,9 @@
 # Introduction to Machine Learning and Data Visualization with Python
 
+__Important!__ This tutorial is under development
+and it is still not ready to be run on colab notebooks.
+
+
 :wave:  _Welcome!_
 This short interactive tutorial will show you 
 how to use the [scikit-learn](https://github.com/scikit-learn/scikit-learn) 
@@ -15,7 +19,7 @@ This tutorial was developed to be presented at the 2021 edition of the [OHBM Bra
 
 | Notebook 	| Content 	| Colab link 	|
 |----------	|---------	|------------	|
-| [01. Introduction](.notebooks/01-introduction_ml.ipynb) | descr | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martinagvilas/ML-Vis-BrainHack-2021/blob/main/notebooks/01-introduction_ml.ipynb) |
+| [01. Preliminaries](.notebooks/01-introduction_ml.ipynb) | descr | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martinagvilas/ML-Vis-BrainHack-2021/blob/main/notebooks/01-introduction_ml.ipynb) |
 | [02. Estimators](.notebooks/02-estimators.ipynb) | desc | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martinagvilas/ML-Vis-BrainHack-2021/blob/main/notebooks/02-estimators.ipynb) |
 | [03. Pipelines](.notebooks/03-pipelines.ipynb) | desc | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martinagvilas/ML-Vis-BrainHack-2021/blob/main/notebooks/03-pipelines.ipynb) |
 | [04. Overfitting](.notebooks/04-preventing_overfitting.ipynb) | desc | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martinagvilas/ML-Vis-BrainHack-2021/blob/main/notebooks/04-preventing_overfitting.ipynb) |
@@ -46,7 +50,8 @@ by [Laura Suarez](https://twitter.com/LauraESuarez24).
 
 ## Get in touch
 If you run into any problems when executing this tutorial,
-please open an [issue]() describing the problem.
+please open an [issue](https://github.com/martinagvilas/ML-Vis-BrainHack-2021/issues) describing the problem.
 
 We also welcome any enhancements, ideas or discussions
 on the topics covered by the notebooks.
+ 
