@@ -15,19 +15,27 @@ This tutorial was developed to be presented at the 2021 edition of the [OHBM Bra
 ## Structure of this tutorial
 - The content of this tutorial is divided into the following notebooks:
 
-| Notebook 	| Content 	| Colab link 	|
-|----------	|---------	|------------	|
-| [01. Preliminaries](.notebooks/01-introduction_ml.ipynb) | descr | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martinagvilas/ML-Vis-BrainHack-2021/blob/main/notebooks/01-introduction_ml.ipynb) |
-| [02. Core concepts](.notebooks/02-estimators.ipynb) | desct| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martinagvilas/ML-Vis-BrainHack-2021/blob/main/notebooks/02-estimators.ipynb) |
-| [03. Pipelines](.notebooks/03-pipelines.ipynb) | desc | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martinagvilas/ML-Vis-BrainHack-2021/blob/main/notebooks/03-pipelines.ipynb) |
-| [04. Overfitting](.notebooks/04-preventing_overfitting.ipynb) | desc | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martinagvilas/ML-Vis-BrainHack-2021/blob/main/notebooks/04-preventing_overfitting.ipynb) |
-| [05. Visualization](.notebooks/05-visualization.ipynb) | desc | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martinagvilas/ML-Vis-BrainHack-2021/blob/main/notebooks/05-visualization.ipynb) |
+| Notebook 	| Content 	| 
+|----------	|---------	|
+| [01. Preliminaries](.notebooks/01-introduction_ml.ipynb) | Introduction to the tutorial and dataset| 
+| [02. Core concepts](.notebooks/02-estimators.ipynb) | Estimators, regression, classification and clustering in scikit-learn| 
+| [03. Pipelines](.notebooks/03-pipelines.ipynb) | Transformers, preprocessing, feature selection, feature engineering, dimensionality reduction and pipelines in scikit-learn|
+| [04. Overfitting](.notebooks/04-preventing_overfitting.ipynb) | The problem of overfitting, cross-validation, regularization and hyper-parameter tuning | 
+| [05. Visualization](.notebooks/05-visualization.ipynb) | Basic components of a matplotlib plot and basic plots with seaborn | 
 
 - Each notebook provides small comprehension exercises, and a final integration exercise.
 
 ## Executing the notebooks
-- Run in Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/martinagvilas/ML-Vis-BrainHack-2021/HEAD?urlpath=lab)
-- Run locally {To-DO, explain how}
+- To run these notebooks in Binder head here: 
+
+    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/martinagvilas/ML-Vis-BrainHack-2021/HEAD?urlpath=lab)
+
+- To run these notebooks locally, follow these steps (you need to have installed git and python in your computer):
+```
+git clone https://github.com/martinagvilas/ML-Vis-BrainHack-2021.git
+cd {path_to_cloned_folder}
+pip install -r requirements.txt
+```
 
 ## Learning goals
 - [ ] Learn how to load and prepare your data for machine learning analysis with scikit-learn.
@@ -55,8 +63,8 @@ This event follows the [OHBM BrainHack code of conduct](https://ohbm.github.io/h
 Please make sure to read it before participating in our session.
 
 ## Get in touch
-If you run into any problems when executing this tutorial,
+If you run into any problems while executing this tutorial,
 please open an [issue](https://github.com/martinagvilas/ML-Vis-BrainHack-2021/issues) describing the problem.
 
 We also welcome any enhancements, ideas or discussions
-on the topics covered in the notebooks.
+on the structure or contents covered in the notebooks.
