@@ -18,7 +18,7 @@ This tutorial was developed to be presented at the 2021 edition of the [OHBM Bra
 | Notebook 	| Content 	| Colab link 	|
 |----------	|---------	|------------	|
 | [01. Preliminaries](.notebooks/01-introduction_ml.ipynb) | descr | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martinagvilas/ML-Vis-BrainHack-2021/blob/main/notebooks/01-introduction_ml.ipynb) |
-| [02. Core concepts](.notebooks/02-estimators.ipynb) | desc | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martinagvilas/ML-Vis-BrainHack-2021/blob/main/notebooks/02-estimators.ipynb) |
+| [02. Core concepts](.notebooks/02-estimators.ipynb) | desct| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martinagvilas/ML-Vis-BrainHack-2021/blob/main/notebooks/02-estimators.ipynb) |
 | [03. Pipelines](.notebooks/03-pipelines.ipynb) | desc | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martinagvilas/ML-Vis-BrainHack-2021/blob/main/notebooks/03-pipelines.ipynb) |
 | [04. Overfitting](.notebooks/04-preventing_overfitting.ipynb) | desc | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martinagvilas/ML-Vis-BrainHack-2021/blob/main/notebooks/04-preventing_overfitting.ipynb) |
 | [05. Visualization](.notebooks/05-visualization.ipynb) | desc | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martinagvilas/ML-Vis-BrainHack-2021/blob/main/notebooks/05-visualization.ipynb) |
