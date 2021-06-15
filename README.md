@@ -1,8 +1,6 @@
 # Introduction to Machine Learning and Data Visualization with Python
 
-__Important!__ This tutorial is under development
-and it is still not ready to be run on colab notebooks.
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/martinagvilas/ML-Vis-BrainHack-2021/HEAD?urlpath=lab)
 
 :wave:  _Welcome!_
 This short interactive tutorial will show you 
@@ -20,7 +18,7 @@ This tutorial was developed to be presented at the 2021 edition of the [OHBM Bra
 | Notebook 	| Content 	| Colab link 	|
 |----------	|---------	|------------	|
 | [01. Preliminaries](.notebooks/01-introduction_ml.ipynb) | descr | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martinagvilas/ML-Vis-BrainHack-2021/blob/main/notebooks/01-introduction_ml.ipynb) |
-| [02. Estimators](.notebooks/02-estimators.ipynb) | desc | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martinagvilas/ML-Vis-BrainHack-2021/blob/main/notebooks/02-estimators.ipynb) |
+| [02. Core concepts](.notebooks/02-estimators.ipynb) | desc | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martinagvilas/ML-Vis-BrainHack-2021/blob/main/notebooks/02-estimators.ipynb) |
 | [03. Pipelines](.notebooks/03-pipelines.ipynb) | desc | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martinagvilas/ML-Vis-BrainHack-2021/blob/main/notebooks/03-pipelines.ipynb) |
 | [04. Overfitting](.notebooks/04-preventing_overfitting.ipynb) | desc | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martinagvilas/ML-Vis-BrainHack-2021/blob/main/notebooks/04-preventing_overfitting.ipynb) |
 | [05. Visualization](.notebooks/05-visualization.ipynb) | desc | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martinagvilas/ML-Vis-BrainHack-2021/blob/main/notebooks/05-visualization.ipynb) |
@@ -29,13 +27,17 @@ This tutorial was developed to be presented at the 2021 edition of the [OHBM Bra
 
 ## Executing the notebooks
 - Run in Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/martinagvilas/ML-Vis-BrainHack-2021/HEAD?urlpath=lab)
-- Run it in colab {To-DO, explain how}
-- Run it locally {To-DO, explain how}
+- Run locally {To-DO, explain how}
 
 ## Learning goals
 - [ ] Learn how to load and prepare your data for machine learning analysis with scikit-learn.
-- [ ] Learn how to perform linear regression and classification analysis with scikit-learn.
-- [ ] Learn the concepts of regularization, cross-validation, parameter tuning, and how to implement them using scikit-learn.
+- [ ] Learn how to perform regression, classification and clustering 
+analysis with scikit-learn.
+- [ ] Learn the concepts of 
+regularization, 
+cross-validation, 
+hyper-parameter tuning, 
+and how to implement them using scikit-learn.
 - [ ] Learn how to inspect and evaluate a machine learning model.
 - [ ] Learn how to plot your results with matplotlib and seaborn.
 
@@ -48,10 +50,13 @@ This tutorial was developed to be presented at the 2021 edition of the [OHBM Bra
 ["A tutorial on machine learning"](https://www.youtube.com/watch?v=pOAK6ynM11E&list=PLVso6Qs8PLCiciMyxyqxCzp38G5tEhdy6&index=6) 
 by [Laura Suarez](https://twitter.com/LauraESuarez24).
 
+## Code of conduct
+This event follows the [OHBM BrainHack code of conduct](https://ohbm.github.io/hackathon2021/coc/). 
+Please make sure to read it before participating in our session.
+
 ## Get in touch
 If you run into any problems when executing this tutorial,
 please open an [issue](https://github.com/martinagvilas/ML-Vis-BrainHack-2021/issues) describing the problem.
 
 We also welcome any enhancements, ideas or discussions
-on the topics covered by the notebooks.
- 
+on the topics covered in the notebooks.
