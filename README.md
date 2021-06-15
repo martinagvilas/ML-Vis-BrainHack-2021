@@ -20,7 +20,7 @@ This tutorial was developed to be presented at the 2021 edition of the [OHBM Bra
 | [01. Preliminaries](.notebooks/01-introduction_ml.ipynb) | Introduction to the tutorial and dataset| 
 | [02. Core concepts](.notebooks/02-estimators.ipynb) | Estimators, regression, classification and clustering in scikit-learn| 
 | [03. Pipelines](.notebooks/03-pipelines.ipynb) | Transformers, preprocessing, feature selection, feature engineering, dimensionality reduction and pipelines in scikit-learn|
-| [04. Overfitting](.notebooks/04-preventing_overfitting.ipynb) | The problem of overfitting, cross-validation, regularization and hyper-parameter tuning | 
+| [04. Overfitting](.notebooks/04-preventing_overfitting.ipynb) | The problem of overfitting, cross-validation, regularization and hyper-parameter tuning in scikit-learn| 
 | [05. Visualization](.notebooks/05-visualization.ipynb) | Basic components of a matplotlib plot and basic plots with seaborn | 
 
 - Each notebook provides small comprehension exercises, and a final integration exercise.
@@ -32,9 +32,9 @@ This tutorial was developed to be presented at the 2021 edition of the [OHBM Bra
 
 - To run these notebooks locally, follow these steps (you need to have installed git and python in your computer):
 ```
-git clone https://github.com/martinagvilas/ML-Vis-BrainHack-2021.git
-cd {path_to_cloned_folder}
-pip install -r requirements.txt
+$ git clone https://github.com/martinagvilas/ML-Vis-BrainHack-2021.git
+$ cd {path_to_cloned_folder}
+$ pip install -r requirements.txt
 ```
 
 ## Learning goals
