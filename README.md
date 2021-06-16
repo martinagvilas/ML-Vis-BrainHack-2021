@@ -51,9 +51,9 @@ and how to implement them using scikit-learn.
 
 ## Pre-requisites
 - For this tutorial, we assume you have:
-    - Basic knowledge of Machine Learning concepts. 
+    - Basic knowledge of machine learning concepts. 
     For example, you know the difference between supervised/unsupervised learning, or the difference between classification, regression and clustering models.
-    - Basic experience with Python
+    - Basic experience with Python.
 - We also assume that you have seen the video 
 ["A tutorial on machine learning"](https://www.youtube.com/watch?v=pOAK6ynM11E&list=PLVso6Qs8PLCiciMyxyqxCzp38G5tEhdy6&index=6) 
 by [Laura Suarez](https://twitter.com/LauraESuarez24).
